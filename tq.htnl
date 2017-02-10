@@ -1,5 +1,5 @@
 <html>
-<form method="post" name="display" action="tes.php" />
+<form method="get" name="display" action="tes.php" />
 Enter the name you like to display the data from MySQL:<br>
 <input type="text" name="name" />
 <input type="submit" name="Submit" value="display" />
